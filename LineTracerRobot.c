@@ -1,4 +1,4 @@
-#include <AFMotor.h> // Importing the corresponding header file
+#include <AFMotor.h> // Importing the corresponding header file that is relevent for the bot
 
 AF_DCMotor motorA(4); //this is the left motor
 AF_DCMotor motorB(2); //this is the right motor
