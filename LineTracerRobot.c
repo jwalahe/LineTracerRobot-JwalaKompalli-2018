@@ -1,4 +1,4 @@
-#include <AFMotor.h>
+#include <AFMotor.h> // Importing the corresponding header file
 
 AF_DCMotor motorA(4); //this is the left motor
 AF_DCMotor motorB(2); //this is the right motor
